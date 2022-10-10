@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hello dear visitor 👋
 
-My name is Q. 
+It's Q! 
 
 🌱 On the journey to become a developer, I hope to learn and connect with as much like-minded people as possible.
 

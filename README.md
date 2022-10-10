@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Q. 
+
+🌱 On the journey to become a developer, I hope to learn and connect with as much like-minded people as possible.
+
 <!--
 **Queue90s/Queue90s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
